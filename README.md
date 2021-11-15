@@ -1,8 +1,6 @@
 # CustomRealms Brand Assets &amp; Guidelines
 
 <img src="icon-solid/icon-solid.png" width="200" alt="CustomRealms Logo">
-<br />
-<br />
 
 ## Official brand assets for CustomRealms
 
